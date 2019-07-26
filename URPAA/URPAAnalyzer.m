@@ -5,7 +5,7 @@
 % an audio input file in *.wav format. 
 %
 % The Psycho-acoustic model used is based on the Zwicker Model:
-% Zwicker E., Fastl H. ‘Psychoacoustics: Facts and Models’(1990).
+% Zwicker E., Fastl H. â€˜Psychoacoustics: Facts and Modelsâ€™(1990).
 %
 % Input parameters:
 %   audioSignal  -  string with *.wav filename or path to a *.wav file
@@ -23,7 +23,7 @@
 %
 %********************************************************************************
 % Copyright (c) 2018-2019 Department of Computer Science                        *
-%                         ETSE, Universitat de València                         *
+%                         ETSE, Universitat de ValÃ¨ncia                         *
 %                         46100, Burjassot, Valencia, Spain                     *
 %                                                                               *
 % This file is part of the URPAA: URBAURAMON Psycho-acoustic Annoyance Analizer *
@@ -48,7 +48,7 @@
 %                                                                               *
 % In case of use of the implemented code, please cite us.                       *
 %                                                                               *
-% https://github.com/jausegar/urbauramon/URPAA            jaume.segura@uv.es    *
+% https://github.com/jausegar/urbauramon/tree/master/URPAA  jaume.segura@uv.es  *
 %********************************************************************************
 
 function [PA] = URPAAnalyzer(audioFile)
