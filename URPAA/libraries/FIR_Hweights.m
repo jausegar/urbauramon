@@ -5,7 +5,7 @@
 %
 %********************************************************************************
 % Copyright (c) 2018-2019 Department of Computer Science                        *
-%                         ETSE, Universitat de València                         *
+%                         ETSE, Universitat de ValÃ¨ncia                         *
 %                         46100, Burjassot, Valencia, Spain                     *
 %                                                                               *
 % This file is part of the URPAA: URBAURAMON Psycho-acoustic Annoyance Analizer *
@@ -30,7 +30,7 @@
 %                                                                               *
 % In case of use of the implemented code, please cite us.                       *
 %                                                                               *
-% https://github.com/jausegar/urbauramon/URPAA            jaume.segura@uv.es    *
+% https://github.com/jausegar/urbauramon/tree/master/URPAA  jaume.segura@uv.es  *
 %********************************************************************************
 function filtros = FIR_Hweights(Fs)
 
