@@ -57,10 +57,10 @@ This is the source distribution of **URPAA: Urbauramon Psycho-acoustic Annoyance
 under the GPLv3+. Please consult the file COPYING for more information about
 this license.
 
-Website: https://github.com/jausegar/urbauramon/URPAA
+Website: https://github.com/jausegar/urbauramon/tree/master/URPAA
 
 If you have questions, bug reports or feature requests, please use the [Issue
-Section on the website](https://github.com/jausegar/urbauramon/URPAA/issues) to report them. 
+Section on the website](https://github.com/jausegar/urbauramon/issues) to report them. 
 
 If you use our Audio Analyzer for your publications please cite our SEA papers:
 
