@@ -6,11 +6,11 @@
 %
 % This model is based on the optimized Aures described in: 
 % Psychoacoustical Roughness: Implementation of an Optimized Model
-% P. Daniel and R. Weber, ìPsychoacoustic Roughness: Implementation of an 
-% Optimized Model,î Acustica 83, 113~123 (1997).
+% P. Daniel and R. Weber, ‚ÄúPsychoacoustic Roughness: Implementation of an 
+% Optimized Model,‚Äù Acustica 83, 113~123 (1997).
 %
 % This model is based on the Zwicker Model:
-% Zwicker E., Fastl H. ëPsychoacoustics: Facts and Modelsí(1990).
+% Zwicker E., Fastl H. ‚ÄòPsychoacoustics: Facts and Models‚Äô(1990).
 %
 % Usage:
 % [F] = FAnalyzer(audioSignal)
@@ -23,7 +23,7 @@
 %
 %********************************************************************************
 % Copyright (c) 2018-2019 Department of Computer Science                        *
-%                         ETSE, Universitat de ValËncia                         *
+%                         ETSE, Universitat de Val√®ncia                         *
 %                         46100, Burjassot, Valencia, Spain                     *
 %                                                                               *
 % This file is part of the URPAA: URBAURAMON Psycho-acoustic Annoyance Analizer *
@@ -41,7 +41,7 @@
 % You should  have received a copy  of the GNU General Public License  along    *
 % with this program.  If not, see <http://www.gnu.org/licenses/>.               *
 %                                                                               *
-% https://github.com/jausegar/urbauramon/URPAA            jaume.segura@uv.es    *
+% https://github.com/jausegar/urbauramon/tree/master/URPAA  jaume.segura@uv.es  *
 %********************************************************************************
 function [F] = FAnalyzer(xr)
 
