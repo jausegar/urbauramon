@@ -7,7 +7,6 @@ URPAA: Urbauramon Modified Psycho-acoustic Annoyance Analyzer
 
 **[Requirements](#requirements)**  
 **[What can I do with URPAAnalyzer?](#what-can-i-do-with-urpaanalyzer)**   
-**[How to use URPAAnalyzer?](#how-to-use-urpaanalyzer)**   
 **[Credits and License](#credits-and-license)**    
 **[Authors](#authors)**
 
@@ -24,8 +23,11 @@ What can I do with URPAA Rasp Analyzer?
 
 URPAAnalyzer Rasp allows to analyze the modified model of psycho-acoustic annoyance of an audio file supplied as input parameter, taking into account the Tonality metric as well as the other psycho-acoustic metrics defined by Zwicker and Fastl. 
 The nuisance model is based on the Zwicker model, described in:
+
 Zwicker E., Fastl H. ‘Psychoacoustics: Facts and Models’(1990).
+
 and the modified version is described in:
+
 G. Di, X. Chen, K. Song, B. Zhou, Ch. Pei, 'Improvement of Zwicker’s psychoacoustic annoyance model aiming at tonal noises', Applied Acoustics, Vol. 105, 2016, pp. 164-170,
 https://www.sciencedirect.com/science/article/pii/S0003682X15003606
 
@@ -33,6 +35,7 @@ It should be noted that only single-channel with 1 second duration audio is acce
 But it is very simple to select channels using basic Matlab functions and create *.wav files  with the necessary characteristics.
 
 The implementation has been introduced in a Simulink model, using function interface, in order to be included in a Raspberry Pi (model 3B+ o 4B+). The procedure to integrate this model is described in:
+
 https://es.mathworks.com/help/supportpkg/raspberrypi/ug/create-and-run-an-application-on-raspberry_pi-hardware.html
 
 Credits and License
